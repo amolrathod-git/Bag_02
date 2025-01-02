@@ -1,2 +1,3 @@
 I am Milk from develop branchLocal01_02
 I am Milk from develop branchRemote01_02__added resolution
+Added third line
